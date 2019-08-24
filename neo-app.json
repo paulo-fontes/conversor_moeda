@@ -1,7 +1,6 @@
 {
   "welcomeFile": "index.html",
   "authenticationMethod": "none"
-=======
   "routes": [
     {
     	"path": "api",
