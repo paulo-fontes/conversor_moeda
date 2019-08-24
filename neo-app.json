@@ -1,4 +1,12 @@
 {
   "welcomeFile": "index.html",
-  "authenticationMethod": "saml"
+  "routes": [
+    {
+    	"path": "api",
+    	"target": {
+    		"type": "destination",
+    		"name": "ExchangeRates"
+    	}
+    }
+  ]
 }
